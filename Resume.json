@@ -1,0 +1,57 @@
+{
+	"basics": {
+		"name": "Harsh Meena",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/88263993?s=400&u=00dfc2b993cdf02808710fdb7693886017426a83&v=4",
+		"email": "2020kuec2028@iiitkota.ac.in",
+		"phone": "8247051405",
+		"summary": "Student at IIIT Kota ",
+		"location": {
+			"address": "Vill+post nangal bersi district dausa",
+			"postalCode": "303303",
+			"city": "Dausa",
+			"countryCode": "India",
+			"region": "Rajasthan"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "HarshMe32437584",
+				"url": "https://www.twitter.com/HarshMe32437584"
+			},
+			{
+				"network": "Github",
+				"username": "Harshmeena1",
+				"url": "https://www.github.com/Harshmeena1/"
+			},
+			
+			{
+				"network": "Instagram",
+				"username": "harshmeena726",
+				"url": "https://instagram.com/harshmeena726"
+			}
+		]
+	},
+	
+	
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "02-12-2020 //Date",
+		"endDate": "07-07-2023",
+		"gpa": "6.41",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Add more"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Cricket", "football"]
+	}],
+	"references": []
+}
